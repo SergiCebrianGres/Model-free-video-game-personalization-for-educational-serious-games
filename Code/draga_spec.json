@@ -1,0 +1,51 @@
+{
+	"entities" : {
+		"Adult" : {
+			"fields" : {"size": 1, "row": 0, "col": 0, "hitpoints": 30},
+			"cost" : {"stones": 400}
+		},
+		"Child" : {
+			"fields" : {"size": 1, "row": 0, "col": 0, "hitpoints": 60},
+			"cost" : {"stones": 600}
+		},
+		"Goat" : {
+			"fields" : {"size": 1, "row": 0, "col": 0, "hitpoints": 20},
+			"cost" : {"wood": 100}
+		},
+		"Rabbit" : {
+			"fields" : {"size": 1, "row": 0, "col": 0, "hitpoints": 20},
+			"cost" : {"wood": 100}
+		},
+		"Cabin" : {
+			"fields" : {"size": 2, "row": 0, "col": 0, "hitpoints": 1200},
+			"cost" : {"stones": 400, "wood": 1200}
+		}
+	},
+	"resources" : {
+		"Tree" : {
+			"reward" : {"wood": 100}
+		},
+		"Stone": {
+			"reward" : {"stone": 100}
+		}
+	},
+	"actions" : [
+		{
+			"name" : "Move",
+			"entities" : ["Adult","Child"]
+		},
+		{
+			"name": "Harvest",
+			"entities" : ["Adult"]
+		},
+		{
+			"name": "Repair",
+			"entities" : ["Adult"]
+		},
+		{
+			"name": "Cancel",
+			"entities" : ["Adult","Child"]
+		}
+	]
+
+}

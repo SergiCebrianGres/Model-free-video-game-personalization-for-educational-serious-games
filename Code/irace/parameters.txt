@@ -1,0 +1,4 @@
+# name		switch		type		values
+exploration "--exp="    r       (0.01,1.00)
+gamma       "--gam="    r       (0.01,1.00)
+learn_rate  "--lr="     r       (0.01,1.00)

@@ -1,0 +1,457 @@
+11:40:50 AM-su: Boar initialized
+11:40:50 AM-su: Object Ganivet (1)(Clone) spawned at (9.0, 0.1, 38.6)
+11:40:50 AM-su: Object AdzePortal (1)(Clone) spawned at (-8.6, 0.5, 37.2)
+11:40:50 AM-su: Object SicklePortal (1)(Clone) spawned at (-16.0, 1.4, 14.0)
+11:40:50 AM-su: Object BowPortal(Clone) spawned at (-18.7, 1.2, -0.9)
+11:40:50 AM-su: Object ModernLongbow (1)(Clone) spawned at (1.2, 0.7, 23.2)
+11:40:50 AM-su: Object ModernLongbow(Clone) spawned at (16.2, 1.6, 21.0)
+11:40:50 AM-su: Object SawPortal(Clone) spawned at (-30.8, 0.3, -0.1)
+11:40:50 AM-su: Object LadleNeo (1)(Clone) spawned at (-8.0, 0.7, 37.8)
+11:40:50 AM-su: Object Ganivet(Clone) spawned at (-4.2, 1.7, -11.0)
+11:40:50 AM-su: Object SicklePortal(Clone) spawned at (-17.0, 4.9, 12.4)
+11:40:50 AM-su: Object Cola Can (1)(Clone) spawned at (21.6, 1.5, 35.7)
+11:40:50 AM-su: Object LadleNeo(Clone) spawned at (22.6, 0.7, 36.9)
+11:40:50 AM-su: Object Dart(Clone) spawned at (-29.9, 1.4, 0.5)
+11:40:50 AM-su: Object Banana(Clone) spawned at (17.8, 0.7, 19.5)
+11:40:50 AM-su: Object Cola Can (2)(Clone) spawned at (-5.8, 0.1, 4.7)
+11:40:50 AM-su: Object Cola Can(Clone) spawned at (2.2, -0.1, -29.1)
+11:40:50 AM-su: Timer = 210
+11:40:50 AM-su: Game Started!
+11:40:50 AM-gs_check: Player at position (0.1, 1.6, 0.2)
+11:40:52 AM-btn: RightTouchpad Action PRESSED, Right controller at: (-0.5, 1.2, 0.5)
+11:40:53 AM-gs_check: Player at position (0.1, 1.5, 0.2)
+11:40:53 AM-btn: RightTouchpad Action RELEASED, Right controller at: (-0.3, 1.0, 0.5)
+11:40:53 AM-gc_TELEPORT:  teleport started at (0.1, 1.5, 0.2)
+11:40:53 AM-gc_TELEPORT:  arrived at (-5.9, 0.0, 4.5), distance traveled 0.0001010895
+11:40:55 AM-gc_GRAB: Right controller, Object grabbed: Cola Can (2)(Clone), at: (-5.8, 0.0, 4.7)
+11:40:55 AM-btn: RightTouchpad Action PRESSED, Right controller at: (-5.9, 0.2, 4.7)
+11:40:55 AM-btn: RightTouchpad Action RELEASED, Right controller at: (-5.9, 0.2, 4.7)
+11:40:55 AM-gc_TELEPORT:  teleport started at (-5.9, 0.9, 4.6)
+11:40:55 AM-gc_TELEPORT:  arrived at (-6.0, 0.0, 4.9), distance traveled 0.0001678467
+11:40:56 AM-gs_check: Player at position (-6.0, 1.2, 4.8)
+11:40:57 AM-btn: RightTouchpad Action PRESSED, Right controller at: (-6.1, 1.1, 5.2)
+11:40:58 AM-btn: RightTouchpad Action RELEASED, Right controller at: (-5.5, 0.8, 4.9)
+11:40:58 AM-gc_TELEPORT:  teleport started at (-5.7, 1.5, 4.7)
+11:40:58 AM-gc_TELEPORT:  arrived at (-4.7, 0.0, 6.0), distance traveled 9.536743E-05
+11:40:59 AM-gc_THROW: Right controller, Object thrown: Cola Can (2)(Clone), at: (-4.5, 0.8, 6.3)
+11:40:59 AM-gs_check: Player at position (-4.7, 1.5, 6.0)
+11:41:01 AM-gc_GRAB: Right controller, Object grabbed: Cola Can (2)(Clone), at: (-4.4, 0.0, 6.3)
+11:41:02 AM-gs_check: Player at position (-4.7, 1.5, 5.9)
+11:41:02 AM-gc_THROW: Right controller, Object thrown: Cola Can (2)(Clone), at: (-4.2, 1.1, 6.3)
+11:41:05 AM-gs_check: Player at position (-4.6, 1.5, 5.9)
+11:41:06 AM-btn: RightTouchpad Action PRESSED, Right controller at: (-4.9, 0.9, 5.3)
+11:41:08 AM-btn: RightTouchpad Action RELEASED, Right controller at: (-4.6, 1.0, 5.5)
+11:41:08 AM-gc_TELEPORT:  teleport started at (-4.7, 1.5, 5.7)
+11:41:08 AM-gc_TELEPORT:  arrived at (2.3, 0.0, -1.7), distance traveled 1.040295
+11:41:08 AM-gs_check: Player at position (2.3, 1.5, -1.7)
+11:41:08 AM-btn: RightTouchpad Action PRESSED, Right controller at: (2.3, 1.0, -2.1)
+11:41:09 AM-btn: RightTouchpad Action RELEASED, Right controller at: (2.3, 1.0, -2.1)
+11:41:09 AM-gc_TELEPORT:  teleport started at (2.3, 1.5, -1.8)
+11:41:09 AM-gc_TELEPORT:  arrived at (1.4, -0.2, -12.0), distance traveled 0.2704468
+11:41:09 AM-btn: RightTouchpad Action PRESSED, Right controller at: (1.4, 0.8, -12.4)
+11:41:09 AM-btn: RightTouchpad Action RELEASED, Right controller at: (1.4, 0.8, -12.4)
+11:41:09 AM-gc_TELEPORT:  teleport started at (1.4, 1.4, -12.0)
+11:41:09 AM-gc_TELEPORT:  arrived at (1.9, -0.3, -22.3), distance traveled 0.09100342
+11:41:10 AM-btn: RightTouchpad Action PRESSED, Right controller at: (1.9, 0.6, -22.6)
+11:41:10 AM-btn: RightTouchpad Action RELEASED, Right controller at: (1.9, 0.6, -22.6)
+11:41:10 AM-gc_TELEPORT:  teleport started at (1.9, 1.2, -22.3)
+11:41:10 AM-gc_TELEPORT:  arrived at (1.9, -0.3, -27.0), distance traveled 0.0001335144
+11:41:11 AM-gs_check: Player at position (2.0, 1.1, -27.0)
+11:41:11 AM-btn: RightTouchpad Action PRESSED, Right controller at: (1.8, 0.6, -27.2)
+11:41:13 AM-btn: RightTouchpad Action RELEASED, Right controller at: (1.6, 0.6, -27.0)
+11:41:13 AM-gc_TELEPORT:  teleport started at (1.8, 1.2, -26.9)
+11:41:13 AM-gc_TELEPORT:  arrived at (-2.2, -0.3, -27.9), distance traveled 0.0001468658
+11:41:14 AM-gs_check: Player at position (-2.2, 1.1, -28.0)
+11:41:14 AM-btn: RightTouchpad Action PRESSED, Right controller at: (-2.1, 0.6, -28.1)
+11:41:16 AM-btn: RightTouchpad Action RELEASED, Right controller at: (-1.9, 0.7, -27.6)
+11:41:16 AM-gc_TELEPORT:  teleport started at (-2.0, 1.2, -27.8)
+11:41:16 AM-gc_TELEPORT:  arrived at (-1.7, -0.3, -17.8), distance traveled 3.140749
+11:41:16 AM-btn: RightTouchpad Action PRESSED, Right controller at: (-1.5, 0.8, -17.6)
+11:41:17 AM-gs_check: Player at position (-1.6, 1.3, -17.9)
+11:41:17 AM-btn: RightTouchpad Action RELEASED, Right controller at: (-1.6, 0.7, -17.7)
+11:41:17 AM-gc_TELEPORT:  teleport started at (-1.6, 1.3, -17.9)
+11:41:17 AM-gc_TELEPORT:  arrived at (-2.7, 0.0, -7.8), distance traveled 1.971764
+11:41:18 AM-btn: RightTouchpad Action PRESSED, Right controller at: (-2.6, 1.0, -7.6)
+11:41:18 AM-btn: RightTouchpad Action RELEASED, Right controller at: (-2.5, 1.0, -7.5)
+11:41:18 AM-gc_TELEPORT:  teleport started at (-2.6, 1.5, -7.8)
+11:41:18 AM-gc_TELEPORT:  arrived at (-0.8, 0.0, 2.3), distance traveled 1.967705
+11:41:18 AM-btn: RightTouchpad Action PRESSED, Right controller at: (-0.7, 1.0, 2.5)
+11:41:18 AM-btn: RightTouchpad Action RELEASED, Right controller at: (-0.7, 1.0, 2.5)
+11:41:18 AM-gc_TELEPORT:  teleport started at (-0.8, 1.5, 2.3)
+11:41:18 AM-gc_TELEPORT:  arrived at (-0.8, 0.0, 12.4), distance traveled 2.312923
+11:41:19 AM-btn: RightTouchpad Action PRESSED, Right controller at: (-0.7, 1.0, 12.7)
+11:41:19 AM-btn: RightTouchpad Action RELEASED, Right controller at: (-0.7, 1.0, 12.7)
+11:41:19 AM-gc_TELEPORT:  teleport started at (-0.8, 1.5, 12.4)
+11:41:19 AM-gc_TELEPORT:  arrived at (-2.3, 0.0, 22.5), distance traveled 2.238575
+11:41:19 AM-btn: RightTouchpad Action PRESSED, Right controller at: (-2.3, 1.0, 22.7)
+11:41:19 AM-btn: RightTouchpad Action RELEASED, Right controller at: (-2.3, 1.0, 22.7)
+11:41:19 AM-gc_TELEPORT:  teleport started at (-2.3, 1.5, 22.5)
+11:41:19 AM-gc_TELEPORT:  arrived at (-4.3, 0.0, 32.4), distance traveled 2.517776
+11:41:20 AM-gs_check: Player at position (-4.3, 1.5, 32.4)
+11:41:20 AM-btn: RightTouchpad Action PRESSED, Right controller at: (-4.3, 1.0, 32.6)
+11:41:20 AM-btn: RightTouchpad Action RELEASED, Right controller at: (-4.4, 1.0, 32.6)
+11:41:20 AM-gc_TELEPORT:  teleport started at (-4.4, 1.5, 32.4)
+11:41:20 AM-gc_TELEPORT:  arrived at (-9.7, 0.0, 41.0), distance traveled 1.411148
+11:41:21 AM-btn: RightTouchpad Action PRESSED, Right controller at: (-9.4, 0.7, 40.8)
+11:41:22 AM-btn: RightTouchpad Action RELEASED, Right controller at: (-9.4, 0.7, 40.8)
+11:41:22 AM-gc_TELEPORT:  teleport started at (-9.5, 1.4, 40.9)
+11:41:22 AM-gc_TELEPORT:  arrived at (-9.0, 0.4, 40.4), distance traveled 0.0001461133
+11:41:22 AM-btn: RightTouchpad Action PRESSED, Right controller at: (-9.0, 1.2, 40.2)
+11:41:22 AM-btn: RightTouchpad Action RELEASED, Right controller at: (-9.0, 1.2, 40.2)
+11:41:22 AM-gc_TELEPORT:  teleport started at (-9.1, 1.9, 40.3)
+11:41:22 AM-gc_TELEPORT:  arrived at (-8.3, 0.4, 39.3), distance traveled 0.0001537427
+11:41:23 AM-btn: RightTouchpad Action PRESSED, Right controller at: (-8.3, 1.2, 39.2)
+11:41:23 AM-gs_check: Player at position (-8.3, 1.9, 39.3)
+11:41:23 AM-btn: RightTouchpad Action RELEASED, Right controller at: (-8.2, 1.2, 39.2)
+11:41:23 AM-gc_TELEPORT:  teleport started at (-8.3, 1.9, 39.3)
+11:41:23 AM-gc_TELEPORT:  arrived at (-7.0, 0.4, 39.1), distance traveled 0.0001518354
+11:41:26 AM-gs_check: Player at position (-7.0, 1.9, 39.3)
+11:41:27 AM-btn: RightTouchpad Action PRESSED, Right controller at: (-7.3, 1.3, 39.5)
+11:41:27 AM-btn: RightTouchpad Action RELEASED, Right controller at: (-7.3, 1.2, 39.5)
+11:41:27 AM-gc_TELEPORT:  teleport started at (-7.3, 1.8, 39.3)
+11:41:27 AM-gc_TELEPORT:  arrived at (-9.3, 0.4, 39.5), distance traveled 0.0001384839
+11:41:29 AM-gs_check: Player at position (-9.3, 1.8, 39.5)
+11:41:30 AM-btn: RightTouchpad Action PRESSED, Right controller at: (-9.3, 1.4, 39.3)
+11:41:31 AM-btn: RightTouchpad Action RELEASED, Right controller at: (-9.3, 1.8, 39.1)
+11:41:31 AM-gc_TELEPORT:  teleport started at (-9.1, 2.0, 39.4)
+11:41:31 AM-gc_TELEPORT:  arrived at (-12.0, 0.0, 30.3), distance traveled 5.797997
+11:41:32 AM-gs_check: Player at position (-12.1, 1.5, 30.5)
+11:41:35 AM-gs_check: Player at position (-12.0, 1.5, 30.3)
+11:41:37 AM-btn: RightTouchpad Action PRESSED, Right controller at: (-12.1, 1.1, 30.9)
+11:41:38 AM-gs_check: Player at position (-12.1, 1.5, 30.5)
+11:41:38 AM-btn: RightTouchpad Action RELEASED, Right controller at: (-12.0, 1.0, 30.9)
+11:41:38 AM-gc_TELEPORT:  teleport started at (-12.1, 1.5, 30.5)
+11:41:38 AM-gc_TELEPORT:  arrived at (-8.8, 0.0, 37.5), distance traveled 0.0001049042
+11:41:41 AM-gc_GRAB: Right controller, Object grabbed: AdzePortal (1)(Clone), at: (-8.6, 0.5, 37.2)
+11:41:41 AM-gs_check: Player at position (-8.6, 1.3, 37.4)
+11:41:44 AM-btn: RightTouchpad Action PRESSED, Right controller at: (-9.2, 1.1, 37.6)
+11:41:44 AM-gs_check: Player at position (-9.0, 1.5, 37.5)
+11:41:45 AM-btn: RightTouchpad Action RELEASED, Right controller at: (-9.0, 1.1, 37.1)
+11:41:45 AM-gc_TELEPORT:  teleport started at (-8.9, 1.5, 37.4)
+11:41:45 AM-gc_TELEPORT:  arrived at (-7.3, 0.0, 27.4), distance traveled 2.862331
+11:41:45 AM-btn: RightTouchpad Action PRESSED, Right controller at: (-7.4, 1.1, 27.1)
+11:41:45 AM-btn: RightTouchpad Action RELEASED, Right controller at: (-7.4, 1.1, 27.1)
+11:41:45 AM-gc_TELEPORT:  teleport started at (-7.3, 1.5, 27.4)
+11:41:45 AM-gc_TELEPORT:  arrived at (-7.1, 0.0, 17.3), distance traveled 2.747974
+11:41:45 AM-btn: RightTouchpad Action PRESSED, Right controller at: (-7.2, 1.1, 17.0)
+11:41:46 AM-btn: RightTouchpad Action RELEASED, Right controller at: (-7.2, 1.1, 17.0)
+11:41:46 AM-gc_TELEPORT:  teleport started at (-7.1, 1.5, 17.2)
+11:41:46 AM-gc_TELEPORT:  arrived at (-5.5, 0.0, 7.3), distance traveled 2.834599
+11:41:46 AM-btn: RightTouchpad Action PRESSED, Right controller at: (-5.5, 1.1, 6.9)
+11:41:46 AM-btn: RightTouchpad Action RELEASED, Right controller at: (-5.5, 1.2, 6.9)
+11:41:46 AM-gc_TELEPORT:  teleport started at (-5.5, 1.5, 7.3)
+11:41:46 AM-gc_TELEPORT:  arrived at (-3.7, 0.0, -2.3), distance traveled 4.867741
+11:41:47 AM-btn: RightTouchpad Action PRESSED, Right controller at: (-3.7, 1.2, -2.7)
+11:41:47 AM-gs_check: Player at position (-3.6, 1.5, -2.3)
+11:41:47 AM-btn: RightTouchpad Action RELEASED, Right controller at: (-3.6, 1.3, -2.7)
+11:41:47 AM-gc_TELEPORT:  teleport started at (-3.6, 1.5, -2.3)
+11:41:47 AM-gc_TELEPORT:  arrived at (-1.3, -0.1, -11.8), distance traveled 4.793541
+11:41:47 AM-btn: RightTouchpad Action PRESSED, Right controller at: (-1.3, 1.2, -12.3)
+11:41:47 AM-btn: RightTouchpad Action RELEASED, Right controller at: (-1.3, 1.2, -12.3)
+11:41:47 AM-gc_TELEPORT:  teleport started at (-1.3, 1.5, -11.8)
+11:41:47 AM-gc_TELEPORT:  arrived at (0.9, -0.3, -21.4), distance traveled 4.907038
+11:41:48 AM-btn: RightTouchpad Action PRESSED, Right controller at: (0.9, 0.9, -21.9)
+11:41:48 AM-btn: RightTouchpad Action RELEASED, Right controller at: (0.8, 0.9, -21.9)
+11:41:48 AM-btn: RightTouchpad Action PRESSED, Right controller at: (0.8, 0.8, -21.8)
+11:41:48 AM-btn: RightTouchpad Action RELEASED, Right controller at: (0.8, 0.8, -21.8)
+11:41:48 AM-gc_TELEPORT:  teleport started at (0.8, 1.2, -21.5)
+11:41:48 AM-gc_TELEPORT:  arrived at (2.2, -0.3, -28.0), distance traveled 0.6902676
+11:41:48 AM-gs_BOAR: Boar attacked.
+11:41:50 AM-btn: RightTouchpad Action PRESSED, Right controller at: (2.3, 0.7, -25.9)
+11:41:50 AM-gs_check: Player at position (2.5, 1.2, -25.7)
+11:41:50 AM-btn: RightTouchpad Action RELEASED, Right controller at: (2.3, 0.7, -25.9)
+11:41:50 AM-gc_TELEPORT:  teleport started at (2.5, 1.2, -25.8)
+11:41:50 AM-gc_TELEPORT:  arrived at (2.1, -0.3, -28.0), distance traveled 0.3502445
+11:41:50 AM-gs_BOAR: Boar attacked.
+11:41:50 AM-btn: RightTouchpad Action PRESSED, Right controller at: (1.9, 0.8, -28.2)
+11:41:51 AM-btn: RightTouchpad Action RELEASED, Right controller at: (2.0, 0.7, -28.2)
+11:41:51 AM-gc_TELEPORT:  teleport started at (2.0, 1.2, -28.0)
+11:41:51 AM-gc_TELEPORT:  arrived at (2.3, -0.3, -30.9), distance traveled 0.4805489
+11:41:51 AM-btn: RightTouchpad Action PRESSED, Right controller at: (2.2, 0.8, -31.2)
+11:41:51 AM-btn: RightTouchpad Action RELEASED, Right controller at: (2.3, 0.7, -31.1)
+11:41:51 AM-gc_TELEPORT:  teleport started at (2.3, 1.1, -30.9)
+11:41:51 AM-gc_TELEPORT:  arrived at (4.2, -0.1, -40.9), distance traveled 1.435579
+11:41:52 AM-btn: RightTouchpad Action PRESSED, Right controller at: (2.3, 0.7, -26.0)
+11:41:52 AM-btn: RightTouchpad Action RELEASED, Right controller at: (2.3, 0.7, -26.0)
+11:41:52 AM-gc_TELEPORT:  teleport started at (2.4, 1.2, -25.8)
+11:41:52 AM-gc_TELEPORT:  arrived at (2.4, -0.3, -28.0), distance traveled 0.4651165
+11:41:52 AM-gs_BOAR: Boar attacked.
+11:41:53 AM-gs_check: Player at position (2.5, 1.1, -25.7)
+11:41:53 AM-btn: RightTouchpad Action PRESSED, Right controller at: (2.3, 0.6, -25.9)
+11:41:54 AM-btn: RightTouchpad Action RELEASED, Right controller at: (2.3, 0.6, -25.9)
+11:41:54 AM-gc_TELEPORT:  teleport started at (2.4, 1.2, -25.8)
+11:41:54 AM-gc_TELEPORT:  arrived at (2.2, -0.3, -28.0), distance traveled 0.1029377
+11:41:54 AM-gs_BOAR: Boar attacked.
+11:41:56 AM-gc_THROW: Right controller, Object thrown: AdzePortal (1)(Clone), at: (2.2, 1.2, -26.1)
+11:41:56 AM-gs_check: Player at position (2.5, 1.2, -25.8)
+11:41:57 AM-btn: RightTouchpad Action PRESSED, Right controller at: (2.3, 0.6, -26.0)
+11:41:57 AM-btn: RightTouchpad Action RELEASED, Right controller at: (2.3, 0.6, -26.0)
+11:41:57 AM-gc_TELEPORT:  teleport started at (2.4, 1.2, -25.7)
+11:41:57 AM-gc_TELEPORT:  arrived at (2.3, -0.3, -28.0), distance traveled 0.01369667
+11:41:57 AM-gs_BOAR: Boar attacked.
+11:41:58 AM-btn: RightTouchpad Action PRESSED, Right controller at: (2.1, 0.6, -25.7)
+11:41:58 AM-btn: RightTouchpad Action RELEASED, Right controller at: (2.0, 0.6, -25.7)
+11:41:58 AM-gc_TELEPORT:  teleport started at (2.3, 1.2, -25.7)
+11:41:58 AM-gc_TELEPORT:  arrived at (-0.6, -0.3, -26.2), distance traveled 0.0001716614
+11:41:59 AM-btn: RightTouchpad Action PRESSED, Right controller at: (-0.9, 0.6, -26.1)
+11:41:59 AM-btn: RightTouchpad Action RELEASED, Right controller at: (-0.9, 0.6, -26.1)
+11:41:59 AM-gc_TELEPORT:  teleport started at (-0.6, 1.2, -26.1)
+11:41:59 AM-gc_TELEPORT:  arrived at (-2.9, -0.3, -25.2), distance traveled 0.0001220703
+11:41:59 AM-gs_check: Player at position (-2.9, 1.2, -25.2)
+11:42:01 AM-btn: RightTouchpad Action PRESSED, Right controller at: (-2.6, 0.7, -24.8)
+11:42:01 AM-btn: RightTouchpad Action RELEASED, Right controller at: (-2.5, 0.7, -24.8)
+11:42:01 AM-gc_TELEPORT:  teleport started at (-2.7, 1.2, -25.1)
+11:42:01 AM-gc_TELEPORT:  arrived at (-0.9, -0.3, -21.5), distance traveled 0.726757
+11:42:02 AM-btn: RightTouchpad Action PRESSED, Right controller at: (-1.1, 0.5, -21.3)
+11:42:02 AM-btn: RightTouchpad Action RELEASED, Right controller at: (-1.0, 0.5, -21.3)
+11:42:02 AM-gc_TELEPORT:  teleport started at (-1.0, 1.1, -21.5)
+11:42:02 AM-gc_TELEPORT:  arrived at (-1.4, -0.3, -20.2), distance traveled 0.0001182556
+11:42:02 AM-gs_check: Player at position (-1.4, 1.1, -20.2)
+11:42:04 AM-btn: RightTouchpad Action PRESSED, Right controller at: (-0.9, 0.6, -20.0)
+11:42:04 AM-btn: RightTouchpad Action RELEASED, Right controller at: (-0.8, 0.6, -20.0)
+11:42:04 AM-gc_TELEPORT:  teleport started at (-1.1, 1.2, -20.1)
+11:42:04 AM-gc_TELEPORT:  arrived at (4.8, -0.3, -18.6), distance traveled 0.0001010895
+11:42:05 AM-gs_check: Player at position (4.5, 1.1, -18.5)
+11:42:06 AM-btn: RightTouchpad Action PRESSED, Right controller at: (4.2, 0.6, -18.8)
+11:42:06 AM-btn: RightTouchpad Action RELEASED, Right controller at: (4.1, 0.5, -18.9)
+11:42:06 AM-gc_TELEPORT:  teleport started at (4.4, 1.1, -18.8)
+11:42:06 AM-gc_TELEPORT:  arrived at (3.0, -0.3, -19.4), distance traveled 0.1739178
+11:42:07 AM-gc_GRAB: Right controller, Object grabbed: AppleBoarFood (2), at: (2.7, -0.2, -19.5)
+11:42:07 AM-gc_THROW: Right controller, Object thrown: AppleBoarFood (2), at: (2.8, 0.0, -19.5)
+11:42:08 AM-gs_check: Player at position (2.9, 0.8, -19.5)
+11:42:11 AM-btn: RightTouchpad Action PRESSED, Right controller at: (3.0, 0.6, -19.1)
+11:42:11 AM-btn: RightTouchpad Action RELEASED, Right controller at: (3.0, 0.5, -19.1)
+11:42:11 AM-gc_TELEPORT:  teleport started at (3.1, 1.1, -19.3)
+11:42:11 AM-gc_TELEPORT:  arrived at (2.1, -0.3, -19.0), distance traveled 0.000213623
+11:42:11 AM-gs_check: Player at position (2.1, 1.1, -19.0)
+11:42:14 AM-gs_check: Player at position (2.0, 1.1, -18.9)
+11:42:17 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (2.7, -0.1, -19.4)
+11:42:17 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (2.7, -0.1, -19.5)
+11:42:17 AM-gs_check: Player at position (2.4, 0.5, -19.3)
+11:42:18 AM-gc_GRAB: Left controller, Object grabbed: AppleBoarFood (2), at: (2.7, -0.2, -19.5)
+11:42:19 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (2.3, 0.7, -19.5)
+11:42:19 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (2.3, 0.7, -19.5)
+11:42:19 AM-gc_TELEPORT:  teleport started at (2.2, 1.2, -19.2)
+11:42:19 AM-gc_TELEPORT:  arrived at (1.1, -0.3, -29.4), distance traveled 1.830828
+11:42:19 AM-gs_BOAR: Boar attacked.
+11:42:20 AM-gs_check: Player at position (2.4, 1.2, -25.6)
+11:42:21 AM-gc_THROW: Left controller, Object thrown: AppleBoarFood (2), at: (3.1, 0.7, -25.7)
+11:42:22 AM-gs_BOAR: Boar walking towards food.
+11:42:22 AM-btn: RightTouchpad Action PRESSED, Right controller at: (2.3, 0.6, -25.9)
+11:42:22 AM-btn: RightTouchpad Action RELEASED, Right controller at: (2.3, 0.6, -25.9)
+11:42:22 AM-gc_TELEPORT:  teleport started at (2.4, 1.2, -25.6)
+11:42:22 AM-gc_TELEPORT:  arrived at (2.3, -0.3, -28.0), distance traveled 0.3461037
+11:42:23 AM-gs_check: Player at position (2.3, 0.9, -28.2)
+11:42:25 AM-btn: RightTouchpad Action PRESSED, Right controller at: (2.3, -0.1, -28.8)
+11:42:25 AM-btn: RightTouchpad Action RELEASED, Right controller at: (2.2, -0.1, -28.8)
+11:42:25 AM-gc_TELEPORT:  teleport started at (2.2, 0.6, -28.7)
+11:42:25 AM-gc_TELEPORT:  arrived at (2.2, -0.3, -29.0), distance traveled 0.0002174377
+11:42:25 AM-gs_BOAR: Boar defending.
+11:42:25 AM-gs_BOAR: Boar attacked.
+11:42:25 AM-gc_GRAB: Right controller, Object grabbed: Cola Can(Clone), at: (2.2, -0.3, -29.1)
+11:42:25 AM-gc_THROW: Right controller, Object thrown: Cola Can(Clone), at: (2.3, -0.2, -29.1)
+11:42:26 AM-gc_GRAB: Right controller, Object grabbed: Cola Can(Clone), at: (2.3, -0.3, -29.1)
+11:42:26 AM-gs_check: Player at position (2.3, 0.8, -26.2)
+11:42:27 AM-btn: RightTouchpad Action PRESSED, Right controller at: (2.0, 0.8, -25.1)
+11:42:28 AM-btn: RightTouchpad Action RELEASED, Right controller at: (2.0, 0.8, -25.0)
+11:42:28 AM-gc_TELEPORT:  teleport started at (2.3, 1.2, -25.4)
+11:42:28 AM-gc_TELEPORT:  arrived at (-3.1, -0.2, -16.5), distance traveled 2.50017
+11:42:28 AM-btn: RightTouchpad Action PRESSED, Right controller at: (-3.1, 1.0, -16.1)
+11:42:28 AM-btn: RightTouchpad Action RELEASED, Right controller at: (-3.0, 1.0, -16.1)
+11:42:28 AM-gc_TELEPORT:  teleport started at (-3.0, 1.4, -16.6)
+11:42:28 AM-gc_TELEPORT:  arrived at (-2.6, 0.0, -6.1), distance traveled 2.11969
+11:42:29 AM-btn: RightTouchpad Action PRESSED, Right controller at: (-2.6, 1.1, -5.5)
+11:42:29 AM-btn: RightTouchpad Action RELEASED, Right controller at: (-2.6, 1.1, -5.5)
+11:42:29 AM-gc_TELEPORT:  teleport started at (-2.6, 1.5, -6.1)
+11:42:29 AM-gc_TELEPORT:  arrived at (-2.3, 0.0, 4.5), distance traveled 2.105724
+11:42:29 AM-gs_check: Player at position (-2.3, 1.5, 4.5)
+11:42:30 AM-gc_THROW: Right controller, Object thrown: Cola Can(Clone), at: (-2.1, 1.0, 5.1)
+11:42:32 AM-btn: RightTouchpad Action PRESSED, Right controller at: (-2.6, 1.0, 4.6)
+11:42:32 AM-btn: RightTouchpad Action RELEASED, Right controller at: (-2.7, 1.1, 4.6)
+11:42:32 AM-gc_TELEPORT:  teleport started at (-2.3, 1.5, 4.4)
+11:42:32 AM-gc_TELEPORT:  arrived at (-12.1, 0.0, 7.9), distance traveled 1.613083
+11:42:32 AM-gs_check: Player at position (-12.1, 1.5, 7.9)
+11:42:32 AM-btn: RightTouchpad Action PRESSED, Right controller at: (-12.4, 1.0, 8.0)
+11:42:32 AM-btn: RightTouchpad Action RELEASED, Right controller at: (-12.4, 1.0, 8.1)
+11:42:32 AM-gc_TELEPORT:  teleport started at (-12.1, 1.5, 7.9)
+11:42:32 AM-gc_TELEPORT:  arrived at (-15.5, 0.0, 10.4), distance traveled 0.0001487732
+11:42:35 AM-gs_check: Player at position (-15.5, 1.5, 10.4)
+11:42:38 AM-gs_check: Player at position (-15.5, 1.5, 10.4)
+11:42:41 AM-gs_check: Player at position (-15.5, 1.5, 10.4)
+11:42:44 AM-gs_check: Player at position (-15.6, 1.3, 10.7)
+11:42:47 AM-gs_check: Player at position (-15.5, 1.4, 9.9)
+11:42:50 AM-gs_check: Player at position (-15.6, 1.6, 10.4)
+11:42:53 AM-gs_check: Player at position (-15.7, 1.6, 10.4)
+11:42:54 AM-btn: LeftGrip Action PRESSED, Left controller at: (-15.8, 1.6, 10.3)
+11:42:55 AM-btn: LeftGrip Action RELEASED, Left controller at: (-15.8, 1.6, 10.4)
+11:42:56 AM-gs_check: Player at position (-15.7, 1.5, 10.3)
+11:42:59 AM-gs_check: Player at position (-15.6, 1.6, 10.3)
+11:43:00 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (-15.5, 1.1, 10.0)
+11:43:02 AM-gs_check: Player at position (-15.7, 1.6, 10.3)
+11:43:02 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (-15.6, 1.1, 9.9)
+11:43:02 AM-gc_TELEPORT:  teleport started at (-15.7, 1.6, 10.3)
+11:43:02 AM-gc_TELEPORT:  arrived at (-12.3, 0.0, 0.5), distance traveled 0.9498672
+11:43:03 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (-12.5, 1.1, 0.1)
+11:43:04 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (-12.6, 1.0, 0.1)
+11:43:04 AM-gc_TELEPORT:  teleport started at (-12.4, 1.5, 0.5)
+11:43:04 AM-gc_TELEPORT:  arrived at (-16.6, -0.2, -4.5), distance traveled 0.000122843
+11:43:04 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (-16.8, 0.9, -4.8)
+11:43:05 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (-16.7, 0.9, -4.9)
+11:43:05 AM-gc_TELEPORT:  teleport started at (-16.5, 1.4, -4.6)
+11:43:05 AM-gc_TELEPORT:  arrived at (-17.6, 0.0, -9.4), distance traveled 0.0001155461
+11:43:05 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (-17.7, 1.0, -9.8)
+11:43:05 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (-17.7, 1.0, -9.8)
+11:43:05 AM-gc_TELEPORT:  teleport started at (-17.6, 1.6, -9.4)
+11:43:05 AM-gc_TELEPORT:  arrived at (-18.6, -0.1, -15.6), distance traveled 0.0001127921
+11:43:05 AM-gs_check: Player at position (-18.5, 1.5, -15.6)
+11:43:05 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (-18.4, 1.1, -16.0)
+11:43:06 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (-18.4, 1.0, -16.0)
+11:43:06 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (-18.4, 1.1, -16.0)
+11:43:07 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (-18.4, 1.1, -16.0)
+11:43:07 AM-gc_TELEPORT:  teleport started at (-18.5, 1.5, -15.6)
+11:43:07 AM-gc_TELEPORT:  arrived at (-15.7, -0.2, -25.6), distance traveled 1.054962
+11:43:08 AM-gs_check: Player at position (-15.6, 1.4, -25.6)
+11:43:10 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (-15.8, 0.9, -25.2)
+11:43:11 AM-gs_check: Player at position (-15.8, 1.4, -25.6)
+11:43:12 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (-15.5, 1.0, -25.2)
+11:43:12 AM-gc_TELEPORT:  teleport started at (-15.7, 1.4, -25.6)
+11:43:12 AM-gc_TELEPORT:  arrived at (-10.6, -0.1, -16.5), distance traveled 2.266796
+11:43:13 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (-10.4, 1.1, -16.1)
+11:43:13 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (-10.4, 1.1, -16.1)
+11:43:13 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (-10.4, 1.0, -16.1)
+11:43:14 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (-10.4, 1.0, -16.1)
+11:43:14 AM-gc_TELEPORT:  teleport started at (-10.6, 1.4, -16.5)
+11:43:14 AM-gc_TELEPORT:  arrived at (-8.3, 0.0, -11.7), distance traveled 8.773804E-05
+11:43:14 AM-gs_check: Player at position (-8.3, 1.6, -11.7)
+11:43:15 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (-8.1, 1.1, -11.4)
+11:43:15 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (-8.1, 1.1, -11.4)
+11:43:16 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (-8.2, 1.2, -11.3)
+11:43:17 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (-8.4, 1.2, -11.3)
+11:43:17 AM-gc_TELEPORT:  teleport started at (-8.4, 1.6, -11.7)
+11:43:17 AM-gc_TELEPORT:  arrived at (-12.4, -0.1, -2.2), distance traveled 2.296892
+11:43:17 AM-gs_check: Player at position (-12.4, 1.5, -2.2)
+11:43:18 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (-12.6, 1.1, -1.8)
+11:43:19 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (-12.5, 1.1, -1.8)
+11:43:19 AM-gc_TELEPORT:  teleport started at (-12.4, 1.5, -2.2)
+11:43:19 AM-gc_TELEPORT:  arrived at (-15.1, 0.0, 7.9), distance traveled 0.9590321
+11:43:19 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (-15.2, 1.1, 8.3)
+11:43:19 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (-15.2, 1.1, 8.2)
+11:43:19 AM-gc_TELEPORT:  teleport started at (-15.1, 1.6, 7.8)
+11:43:19 AM-gc_TELEPORT:  arrived at (-18.9, 0.0, 17.5), distance traveled 0.5887222
+11:43:20 AM-gs_check: Player at position (-19.0, 1.6, 17.5)
+11:43:22 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (-18.4, 1.0, 17.2)
+11:43:23 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (-18.6, 1.0, 17.1)
+11:43:23 AM-gc_TELEPORT:  teleport started at (-18.8, 1.5, 17.5)
+11:43:23 AM-gc_TELEPORT:  arrived at (-17.6, 0.0, 15.2), distance traveled 0.4840527
+11:43:23 AM-gs_check: Player at position (-17.6, 1.6, 15.2)
+11:43:24 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (-17.4, 1.0, 14.9)
+11:43:24 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (-17.3, 1.0, 14.9)
+11:43:24 AM-gc_TELEPORT:  teleport started at (-17.5, 1.5, 15.2)
+11:43:24 AM-gc_TELEPORT:  arrived at (-16.3, 0.5, 14.0), distance traveled 0.0001365766
+11:43:26 AM-gs_check: Player at position (-16.1, 1.8, 14.0)
+11:43:28 AM-btn: RightTouchpad Action PRESSED, Right controller at: (-15.9, 0.5, 14.1)
+11:43:28 AM-gc_GRAB: Right controller, Object grabbed: SicklePortal (1)(Clone), at: (-16.0, 0.5, 14.0)
+11:43:29 AM-btn: RightTouchpad Action RELEASED, Right controller at: (-16.1, 1.0, 14.1)
+11:43:29 AM-gc_TELEPORT:  teleport started at (-16.0, 1.6, 14.0)
+11:43:29 AM-gc_TELEPORT:  arrived at (-15.5, 0.5, 13.8), distance traveled 0.0001651831
+11:43:29 AM-gs_check: Player at position (-15.6, 1.7, 13.8)
+11:43:29 AM-gc_THROW: Right controller, Object thrown: SicklePortal (1)(Clone), at: (-15.7, 1.1, 14.0)
+11:43:32 AM-gs_check: Player at position (-16.2, 2.0, 13.8)
+11:43:35 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (-16.4, 2.0, 13.7)
+11:43:35 AM-gs_check: Player at position (-16.1, 2.0, 13.9)
+11:43:36 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (-16.4, 1.5, 13.7)
+11:43:36 AM-gc_TELEPORT:  teleport started at (-16.2, 2.0, 13.9)
+11:43:36 AM-gc_TELEPORT:  arrived at (-23.1, 0.0, 6.3), distance traveled 1.115341
+11:43:38 AM-gs_check: Player at position (-22.9, 1.6, 6.3)
+11:43:38 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (-22.7, 1.3, 6.5)
+11:43:41 AM-gs_check: Player at position (-23.1, 1.6, 6.3)
+11:43:42 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (-22.7, 1.5, 6.6)
+11:43:42 AM-gc_TELEPORT:  teleport started at (-23.1, 1.6, 6.3)
+11:43:42 AM-gc_TELEPORT:  arrived at (-17.2, 3.5, 12.3), distance traveled 4.204314
+11:43:44 AM-gs_check: Player at position (-17.3, 5.0, 12.5)
+11:43:47 AM-gs_check: Player at position (-17.1, 5.0, 12.1)
+11:43:50 AM-gs_check: Player at position (-17.1, 5.0, 12.2)
+11:43:52 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (-17.4, 4.8, 11.7)
+11:43:53 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (-17.0, 4.7, 11.5)
+11:43:53 AM-gc_TELEPORT:  teleport started at (-17.1, 5.1, 12.1)
+11:43:53 AM-gc_TELEPORT:  arrived at (-14.4, 0.0, 1.9), distance traveled 4.717899
+11:43:53 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (-14.3, 1.2, 1.3)
+11:43:53 AM-gs_check: Player at position (-14.4, 1.5, 1.9)
+11:43:53 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (-14.1, 1.2, 1.5)
+11:43:54 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (-13.9, 1.2, 1.5)
+11:43:54 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (-14.0, 1.2, 1.5)
+11:43:55 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (-14.0, 1.1, 1.5)
+11:43:55 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (-14.1, 1.1, 1.5)
+11:43:55 AM-gc_TELEPORT:  teleport started at (-14.3, 1.5, 1.9)
+11:43:55 AM-gc_TELEPORT:  arrived at (-10.3, 0.0, -4.9), distance traveled 0.0001239777
+11:43:56 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (-10.7, 1.1, -5.3)
+11:43:56 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (-10.7, 1.0, -5.2)
+11:43:56 AM-gc_TELEPORT:  teleport started at (-10.5, 1.6, -4.9)
+11:43:56 AM-gc_TELEPORT:  arrived at (-15.8, -0.2, -11.9), distance traveled 0.0001111207
+11:43:56 AM-gs_check: Player at position (-15.8, 1.4, -11.9)
+11:43:57 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (-16.1, 0.9, -12.2)
+11:43:57 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (-16.1, 0.9, -12.2)
+11:43:57 AM-gc_TELEPORT:  teleport started at (-15.8, 1.4, -12.0)
+11:43:57 AM-gc_TELEPORT:  arrived at (-22.6, -0.1, -19.8), distance traveled 1.064272
+11:43:59 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (-22.4, 1.1, -19.3)
+11:43:59 AM-gs_check: Player at position (-22.5, 1.5, -19.7)
+11:43:59 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (-22.4, 1.1, -19.3)
+11:43:59 AM-gc_TELEPORT:  teleport started at (-22.5, 1.5, -19.8)
+11:43:59 AM-gc_TELEPORT:  arrived at (-21.1, 0.0, -9.6), distance traveled 3.162727
+11:44:00 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (-20.9, 1.3, -9.1)
+11:44:00 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (-20.8, 1.3, -9.1)
+11:44:00 AM-gc_TELEPORT:  teleport started at (-21.1, 1.6, -9.6)
+11:44:00 AM-gc_TELEPORT:  arrived at (-16.0, -0.1, -0.7), distance traveled 3.587143
+11:44:01 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (-15.5, 1.2, -0.5)
+11:44:01 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (-15.5, 1.2, -0.5)
+11:44:01 AM-gc_TELEPORT:  teleport started at (-15.9, 1.5, -0.7)
+11:44:01 AM-gc_TELEPORT:  arrived at (-7.7, 0.0, 5.1), distance traveled 4.009785
+11:44:02 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (-7.2, 1.3, 5.3)
+11:44:02 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (-7.1, 1.3, 5.3)
+11:44:02 AM-gc_TELEPORT:  teleport started at (-7.6, 1.6, 5.1)
+11:44:02 AM-gc_TELEPORT:  arrived at (0.9, 0.0, 10.6), distance traveled 4.176376
+11:44:02 AM-gs_check: Player at position (0.9, 1.6, 10.5)
+11:44:02 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (1.4, 1.3, 10.8)
+11:44:02 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (1.4, 1.3, 10.8)
+11:44:02 AM-gc_TELEPORT:  teleport started at (0.9, 1.6, 10.5)
+11:44:02 AM-gc_TELEPORT:  arrived at (9.6, 0.0, 15.8), distance traveled 3.977047
+11:44:03 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (10.1, 1.3, 16.1)
+11:44:03 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (10.1, 1.3, 16.0)
+11:44:03 AM-gc_TELEPORT:  teleport started at (9.6, 1.6, 15.8)
+11:44:03 AM-gc_TELEPORT:  arrived at (18.6, 0.0, 20.9), distance traveled 3.341324
+11:44:04 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (18.1, 1.1, 21.1)
+11:44:05 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (18.0, 1.1, 21.1)
+11:44:05 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (18.0, 0.9, 21.0)
+11:44:05 AM-gs_check: Player at position (18.3, 1.5, 20.9)
+11:44:05 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (18.1, 0.8, 21.0)
+11:44:05 AM-gc_TELEPORT:  teleport started at (18.3, 1.5, 20.9)
+11:44:05 AM-gc_TELEPORT:  arrived at (17.6, 0.5, 21.1), distance traveled 0.0001594722
+11:44:06 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (17.4, 1.3, 21.2)
+11:44:06 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (17.4, 1.3, 21.2)
+11:44:06 AM-gc_TELEPORT:  teleport started at (17.5, 2.0, 21.1)
+11:44:06 AM-gc_TELEPORT:  arrived at (16.0, 0.5, 21.5), distance traveled 0.0001518428
+11:44:08 AM-gs_check: Player at position (16.3, 1.9, 21.3)
+11:44:09 AM-gc_GRAB: Right controller, Object grabbed: ModernLongbow(Clone), at: (16.2, 1.2, 21.0)
+11:44:10 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (16.2, 1.5, 21.2)
+11:44:10 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (16.2, 1.5, 21.2)
+11:44:10 AM-gc_TELEPORT:  teleport started at (16.3, 2.1, 21.5)
+11:44:10 AM-gc_TELEPORT:  arrived at (16.7, 0.0, 11.2), distance traveled 1.436981
+11:44:11 AM-gs_check: Player at position (16.6, 1.6, 11.2)
+11:44:12 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (16.1, 1.2, 11.2)
+11:44:12 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (16.1, 1.2, 11.2)
+11:44:12 AM-gc_TELEPORT:  teleport started at (16.6, 1.6, 11.2)
+11:44:12 AM-gc_TELEPORT:  arrived at (6.6, 0.0, 9.0), distance traveled 3.428684
+11:44:14 AM-gc_THROW: Right controller, Object thrown: ModernLongbow(Clone), at: (6.3, 1.7, 8.8)
+11:44:14 AM-gs_check: Player at position (6.4, 1.6, 9.0)
+11:44:16 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (5.9, 1.2, 9.1)
+11:44:16 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (5.9, 1.2, 9.1)
+11:44:16 AM-gc_TELEPORT:  teleport started at (6.3, 1.6, 9.0)
+11:44:16 AM-gc_TELEPORT:  arrived at (-4.1, 0.0, 8.5), distance traveled 2.39286
+11:44:17 AM-gs_check: Player at position (-3.8, 1.5, 8.5)
+11:44:19 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (-3.1, 1.0, 8.4)
+11:44:19 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (-3.0, 1.1, 8.5)
+11:44:19 AM-gc_TELEPORT:  teleport started at (-3.4, 1.5, 8.4)
+11:44:19 AM-gc_TELEPORT:  arrived at (6.9, 0.0, 9.7), distance traveled 1.273727
+11:44:20 AM-end: Final Score: 200
+11:44:20 AM-end: Total errors: 0
+11:44:20 AM-end: Game ended!

@@ -1,0 +1,216 @@
+11:09:21 AM-su: Boar initialized
+11:09:21 AM-su: Object BowPortal(Clone) spawned at (-18.7, 1.2, -0.9)
+11:09:21 AM-su: Object Dart(Clone) spawned at (-29.9, 1.4, 0.5)
+11:09:21 AM-su: Object ModernLongbow(Clone) spawned at (16.2, 1.6, 21.0)
+11:09:21 AM-su: Object SicklePortal (1)(Clone) spawned at (-16.0, 1.4, 14.0)
+11:09:21 AM-su: Object LadleNeo (1)(Clone) spawned at (-8.0, 0.7, 37.8)
+11:09:21 AM-su: Object Banana(Clone) spawned at (17.8, 0.7, 19.5)
+11:09:21 AM-su: Object LadleNeo(Clone) spawned at (22.6, 0.7, 36.9)
+11:09:21 AM-su: Object SicklePortal(Clone) spawned at (-17.0, 4.9, 12.4)
+11:09:21 AM-su: Object BowPortal (1)(Clone) spawned at (-7.1, 1.3, 39.6)
+11:09:21 AM-su: Object Ganivet (1)(Clone) spawned at (-4.2, 1.7, -11.0)
+11:09:21 AM-su: Object Cola Can (1)(Clone) spawned at (21.6, 1.5, 35.7)
+11:09:21 AM-su: Object SawPortal(Clone) spawned at (-13.5, 0.1, -20.2)
+11:09:21 AM-su: Object Cola Can(Clone) spawned at (2.2, -0.1, -29.1)
+11:09:21 AM-su: Object ModernLongbow (1)(Clone) spawned at (1.2, 0.7, 23.2)
+11:09:21 AM-su: Object Cola Can (2)(Clone) spawned at (-5.8, 0.1, 4.7)
+11:09:21 AM-su: Object Ganivet(Clone) spawned at (9.0, 0.1, 38.6)
+11:09:21 AM-su: Timer = 210
+11:09:21 AM-su: Game Started!
+11:09:21 AM-gs_check: Player at position (-0.5, 0.8, -1.7)
+11:09:24 AM-gs_check: Player at position (-0.4, 0.5, -2.5)
+11:09:27 AM-gs_check: Player at position (-0.4, 0.4, -2.8)
+11:09:30 AM-gs_check: Player at position (-0.4, 0.4, -2.8)
+11:09:33 AM-gs_check: Player at position (-0.4, 0.4, -2.8)
+11:09:36 AM-gs_check: Player at position (-0.4, 0.4, -2.8)
+11:09:39 AM-gs_check: Player at position (-0.4, 0.4, -2.8)
+11:09:42 AM-gs_check: Player at position (-0.4, 0.4, -2.8)
+11:09:45 AM-gs_check: Player at position (-0.4, 0.4, -2.8)
+11:09:48 AM-gs_check: Player at position (-0.4, 0.4, -2.8)
+11:09:51 AM-gs_check: Player at position (-0.4, 0.4, -2.8)
+11:09:54 AM-gs_check: Player at position (-0.4, 0.4, -2.8)
+11:09:57 AM-gs_check: Player at position (-0.4, 0.4, -2.8)
+11:10:00 AM-gs_check: Player at position (-0.4, 0.4, -2.8)
+11:10:03 AM-gs_check: Player at position (-0.4, 0.4, -2.8)
+11:10:06 AM-gs_check: Player at position (0.0, 0.8, -1.7)
+11:10:09 AM-gs_check: Player at position (-0.3, 0.7, -2.4)
+11:10:12 AM-gs_check: Player at position (-0.1, 0.0, -2.6)
+11:10:15 AM-gs_check: Player at position (-0.3, 0.2, -2.5)
+11:10:18 AM-gs_check: Player at position (-0.1, 0.7, -0.6)
+11:10:21 AM-gs_check: Player at position (0.0, 1.0, 0.0)
+11:10:24 AM-gs_check: Player at position (0.1, 0.9, 0.1)
+11:10:27 AM-gs_check: Player at position (0.0, 1.0, 0.1)
+11:10:30 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (0.1, 0.5, 0.2)
+11:10:30 AM-btn: RightTouchpad Action PRESSED, Right controller at: (0.0, 0.5, 0.4)
+11:10:30 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (0.1, 0.5, 0.2)
+11:10:30 AM-gc_TELEPORT:  teleport started at (-0.1, 1.0, 0.1)
+11:10:30 AM-gc_TELEPORT:  arrived at (5.2, 0.0, 8.8), distance traveled 1.179649
+11:10:30 AM-btn: RightTouchpad Action RELEASED, Right controller at: (5.2, 0.4, 9.1)
+11:10:30 AM-gc_TELEPORT:  teleport started at (5.2, 1.0, 8.8)
+11:10:30 AM-gc_TELEPORT:  arrived at (3.2, 0.0, 4.8), distance traveled 8.964539E-05
+11:10:30 AM-gs_check: Player at position (3.2, 1.0, 4.8)
+11:10:31 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (3.4, 0.4, 5.0)
+11:10:31 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (3.4, 0.4, 5.0)
+11:10:31 AM-gc_TELEPORT:  teleport started at (3.2, 1.0, 4.8)
+11:10:31 AM-gc_TELEPORT:  arrived at (9.1, 0.0, 13.2), distance traveled 0.9069843
+11:10:31 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (9.3, 0.4, 13.3)
+11:10:31 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (9.3, 0.4, 13.3)
+11:10:31 AM-gc_TELEPORT:  teleport started at (9.1, 1.0, 13.2)
+11:10:31 AM-gc_TELEPORT:  arrived at (15.5, 0.5, 21.0), distance traveled 1.194009
+11:10:32 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (15.8, 0.9, 21.1)
+11:10:32 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (15.8, 0.8, 21.0)
+11:10:32 AM-gc_TELEPORT:  teleport started at (15.6, 1.5, 21.0)
+11:10:32 AM-gc_TELEPORT:  arrived at (16.2, 0.5, 21.2), distance traveled 0.0001537501
+11:10:33 AM-gc_GRAB: Left controller, Object grabbed: ModernLongbow(Clone), at: (16.2, 1.2, 21.0)
+11:10:33 AM-gs_check: Player at position (16.1, 1.5, 21.1)
+11:10:34 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (15.8, 1.0, 20.7)
+11:10:34 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (15.6, 1.0, 20.7)
+11:10:34 AM-gc_TELEPORT:  teleport started at (16.0, 1.5, 21.0)
+11:10:34 AM-gc_TELEPORT:  arrived at (8.7, 0.0, 13.8), distance traveled 2.818493
+11:10:34 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (8.3, 0.4, 13.7)
+11:10:34 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (8.3, 0.4, 13.8)
+11:10:34 AM-gc_TELEPORT:  teleport started at (8.7, 1.0, 13.8)
+11:10:34 AM-gc_TELEPORT:  arrived at (6.5, 0.0, 12.9), distance traveled 0.0001411438
+11:10:35 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (6.2, 0.4, 12.9)
+11:10:35 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (6.2, 0.4, 12.9)
+11:10:35 AM-gc_TELEPORT:  teleport started at (6.6, 1.0, 12.9)
+11:10:35 AM-gc_TELEPORT:  arrived at (4.4, 0.0, 12.1), distance traveled 0.0001564026
+11:10:35 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (3.9, 0.4, 12.1)
+11:10:35 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (3.9, 0.4, 12.1)
+11:10:35 AM-gc_TELEPORT:  teleport started at (4.4, 1.0, 12.1)
+11:10:35 AM-gc_TELEPORT:  arrived at (1.8, 0.0, 10.9), distance traveled 0.0001335144
+11:10:36 AM-gc_THROW: Left controller, Object thrown: ModernLongbow(Clone), at: (1.4, 1.2, 10.9)
+11:10:36 AM-gs_check: Player at position (1.8, 1.0, 11.0)
+11:10:37 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (1.4, 0.5, 10.8)
+11:10:38 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (1.4, 0.5, 10.8)
+11:10:38 AM-gc_TELEPORT:  teleport started at (1.8, 1.0, 10.9)
+11:10:38 AM-gc_TELEPORT:  arrived at (-5.9, 0.0, 4.0), distance traveled 0.2923069
+11:10:39 AM-gc_GRAB: Left controller, Object grabbed: Cola Can (2)(Clone), at: (-5.8, 0.0, 4.7)
+11:10:39 AM-gs_check: Player at position (-6.0, 0.8, 4.2)
+11:10:41 AM-btn: LeftGrip Action PRESSED, Left controller at: (-5.8, 1.0, 4.0)
+11:10:42 AM-gc_THROW: Left controller, Object thrown: Cola Can (2)(Clone), at: (-5.5, 1.2, 4.3)
+11:10:42 AM-btn: LeftGrip Action RELEASED, Left controller at: (-5.5, 1.2, 4.4)
+11:10:42 AM-gs_check: Player at position (-6.0, 1.0, 4.2)
+11:10:44 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (-5.8, 0.4, 4.3)
+11:10:44 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (-5.8, 0.4, 4.3)
+11:10:44 AM-gc_TELEPORT:  teleport started at (-5.9, 1.0, 4.2)
+11:10:44 AM-gc_TELEPORT:  arrived at (2.1, 0.0, 10.0), distance traveled 2.786316
+11:10:44 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (2.2, 0.4, 10.1)
+11:10:44 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (2.2, 0.4, 10.1)
+11:10:44 AM-gc_TELEPORT:  teleport started at (2.1, 1.0, 10.0)
+11:10:44 AM-gc_TELEPORT:  arrived at (9.8, 0.0, 16.3), distance traveled 2.745575
+11:10:44 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (10.0, 0.4, 16.3)
+11:10:44 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (10.0, 0.4, 16.3)
+11:10:44 AM-gc_TELEPORT:  teleport started at (9.8, 1.0, 16.3)
+11:10:44 AM-gc_TELEPORT:  arrived at (17.4, 0.5, 22.5), distance traveled 2.604619
+11:10:44 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (17.6, 0.9, 22.6)
+11:10:45 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (17.6, 0.9, 22.6)
+11:10:45 AM-gc_TELEPORT:  teleport started at (17.4, 1.5, 22.5)
+11:10:45 AM-gc_TELEPORT:  arrived at (24.9, 0.0, 28.5), distance traveled 4.282898
+11:10:45 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (25.1, 0.4, 28.5)
+11:10:45 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (25.1, 0.4, 28.5)
+11:10:45 AM-gc_TELEPORT:  teleport started at (24.9, 1.0, 28.5)
+11:10:45 AM-gc_TELEPORT:  arrived at (32.4, 0.0, 34.4), distance traveled 3.976154
+11:10:45 AM-gs_check: Player at position (32.4, 1.1, 34.4)
+11:10:48 AM-gs_check: Player at position (32.4, 1.0, 34.2)
+11:10:49 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (32.1, 0.5, 34.0)
+11:10:49 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (32.2, 0.5, 34.0)
+11:10:49 AM-gc_TELEPORT:  teleport started at (32.5, 1.0, 34.1)
+11:10:49 AM-gc_TELEPORT:  arrived at (26.3, 0.0, 26.1), distance traveled 2.459568
+11:10:49 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (26.0, 0.4, 26.0)
+11:10:49 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (26.0, 0.4, 26.0)
+11:10:49 AM-gc_TELEPORT:  teleport started at (26.4, 1.0, 26.2)
+11:10:49 AM-gc_TELEPORT:  arrived at (21.0, 0.0, 17.5), distance traveled 2.068214
+11:10:50 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (20.7, 0.4, 17.4)
+11:10:50 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (20.7, 0.4, 17.4)
+11:10:50 AM-gc_TELEPORT:  teleport started at (21.0, 1.0, 17.5)
+11:10:50 AM-gc_TELEPORT:  arrived at (15.5, 0.0, 9.0), distance traveled 1.806698
+11:10:50 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (15.1, 0.4, 8.9)
+11:10:50 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (15.1, 0.4, 8.9)
+11:10:50 AM-gc_TELEPORT:  teleport started at (15.5, 1.0, 9.0)
+11:10:50 AM-gc_TELEPORT:  arrived at (8.2, 0.0, 1.8), distance traveled 1.848248
+11:10:50 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (7.8, 0.4, 1.7)
+11:10:51 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (7.8, 0.4, 1.7)
+11:10:51 AM-gc_TELEPORT:  teleport started at (8.2, 1.0, 1.8)
+11:10:51 AM-gc_TELEPORT:  arrived at (0.8, 0.0, -5.4), distance traveled 0.3335381
+11:10:51 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (0.4, 0.4, -5.5)
+11:10:51 AM-gs_check: Player at position (0.8, 1.0, -5.4)
+11:10:52 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (0.4, 0.4, -5.5)
+11:10:52 AM-gc_TELEPORT:  teleport started at (0.8, 1.0, -5.4)
+11:10:52 AM-gc_TELEPORT:  arrived at (-6.1, 0.0, -13.1), distance traveled 1.266956
+11:10:54 AM-gs_check: Player at position (-6.0, 0.9, -13.1)
+11:10:57 AM-gs_check: Player at position (-6.0, 1.0, -13.1)
+11:10:58 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (-6.0, 0.9, -13.3)
+11:10:58 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (-6.0, 0.8, -13.4)
+11:10:58 AM-gc_TELEPORT:  teleport started at (-6.0, 1.0, -13.1)
+11:10:58 AM-gc_TELEPORT:  arrived at (-1.7, -0.3, -20.8), distance traveled 6.132998
+11:10:58 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (-1.6, 0.5, -21.1)
+11:10:59 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (-1.7, 0.5, -21.1)
+11:10:59 AM-gc_TELEPORT:  teleport started at (-1.7, 0.7, -20.8)
+11:10:59 AM-gc_TELEPORT:  arrived at (1.4, -0.3, -27.0), distance traveled 8.323153
+11:10:59 AM-btn: LeftTouchpad Action PRESSED, Left controller at: (1.4, 0.2, -27.3)
+11:11:00 AM-btn: LeftTouchpad Action RELEASED, Left controller at: (1.4, 0.1, -27.3)
+11:11:00 AM-gc_TELEPORT:  teleport started at (1.4, 0.7, -27.0)
+11:11:00 AM-gc_TELEPORT:  arrived at (1.7, -0.3, -28.1), distance traveled 0.03428078
+11:11:00 AM-gs_BOAR: Boar attacked.
+11:11:00 AM-gs_check: Player at position (2.4, 0.7, -25.9)
+11:11:03 AM-gs_check: Player at position (2.4, 0.7, -27.1)
+11:11:04 AM-gs_BOAR: Boar attacked.
+11:11:04 AM-gs_BOAR: Boar attacked.
+11:11:05 AM-gs_BOAR: Boar attacked.
+11:11:06 AM-gs_BOAR: Boar attacked.
+11:11:06 AM-gs_check: Player at position (2.5, -0.4, -28.5)
+11:11:07 AM-gs_BOAR: Boar attacked.
+11:11:07 AM-gs_BOAR: Boar attacked.
+11:11:08 AM-gs_BOAR: Boar attacked.
+11:11:09 AM-gs_BOAR: Boar attacked.
+11:11:09 AM-gs_BOAR: Boar attacked.
+11:11:09 AM-gs_check: Player at position (2.4, -0.4, -28.4)
+11:11:10 AM-gs_BOAR: Boar attacked.
+11:11:11 AM-gs_BOAR: Boar attacked.
+11:11:12 AM-gs_check: Player at position (2.3, 0.7, -26.4)
+11:11:16 AM-gs_check: Player at position (2.1, 0.1, -26.1)
+11:11:19 AM-gs_check: Player at position (2.1, 0.0, -26.2)
+11:11:22 AM-gs_check: Player at position (2.1, 0.1, -25.8)
+11:11:25 AM-gs_check: Player at position (2.3, 0.7, -26.0)
+11:11:28 AM-gs_check: Player at position (1.9, 0.7, -26.1)
+11:11:31 AM-gs_check: Player at position (2.1, 0.4, -26.3)
+11:11:34 AM-gs_check: Player at position (2.5, 0.3, -26.4)
+11:11:37 AM-gs_check: Player at position (4.5, -0.3, -28.3)
+11:11:40 AM-gs_check: Player at position (4.5, -0.4, -28.5)
+11:11:43 AM-gs_check: Player at position (4.5, -0.4, -28.5)
+11:11:46 AM-gs_check: Player at position (2.2, 1.0, -26.0)
+11:11:49 AM-gs_check: Player at position (2.2, 0.9, -25.8)
+11:11:52 AM-gs_check: Player at position (2.6, 0.8, -26.0)
+11:11:55 AM-gs_check: Player at position (2.5, 0.7, -27.1)
+11:11:58 AM-gs_check: Player at position (2.5, 0.7, -26.9)
+11:12:00 AM-gs_BOAR: Boar attacked.
+11:12:01 AM-gs_check: Player at position (2.8, 0.7, -27.5)
+11:12:01 AM-gs_BOAR: Boar attacked.
+11:12:02 AM-gs_BOAR: Boar attacked.
+11:12:02 AM-gs_BOAR: Boar attacked.
+11:12:03 AM-gs_BOAR: Boar attacked.
+11:12:04 AM-gs_check: Player at position (2.6, 0.5, -27.5)
+11:12:04 AM-gs_BOAR: Boar attacked.
+11:12:05 AM-gs_BOAR: Boar attacked.
+11:12:05 AM-gs_BOAR: Boar attacked.
+11:12:07 AM-gs_check: Player at position (2.6, 0.6, -26.8)
+11:12:10 AM-gs_check: Player at position (1.9, 1.0, -26.5)
+11:12:12 AM-gs_BOAR: Boar attacked.
+11:12:12 AM-gs_BOAR: Boar attacked.
+11:12:13 AM-gs_check: Player at position (1.8, 0.9, -27.8)
+11:12:13 AM-gs_BOAR: Boar attacked.
+11:12:15 AM-gs_BOAR: Boar attacked.
+11:12:16 AM-gs_check: Player at position (2.0, 0.9, -27.7)
+11:12:16 AM-gs_BOAR: Boar attacked.
+11:12:17 AM-gs_BOAR: Boar attacked.
+11:12:18 AM-gs_BOAR: Boar attacked.
+11:12:18 AM-gs_BOAR: Boar attacked.
+11:12:19 AM-gs_check: Player at position (2.0, 1.0, -28.1)
+11:12:19 AM-gs_BOAR: Boar attacked.
+11:12:20 AM-gs_BOAR: Boar attacked.
+11:12:20 AM-gs_BOAR: Boar attacked.
+11:12:21 AM-gs_BOAR: Boar attacked.
+11:12:22 AM-gs_check: Player at position (1.6, 0.8, -28.5)
+11:12:22 AM-gs_BOAR: Boar attacked.
+11:12:23 AM-gs_BOAR: Boar attacked.
