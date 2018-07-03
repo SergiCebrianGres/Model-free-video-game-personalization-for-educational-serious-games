@@ -12,6 +12,8 @@ With our case study, a virtual reality archaeological educational serious game, 
 
 Lastly, we turn our attention in a way to evaluate the policies obtained from training and visualize them to better understand what was learned. We will also propose the best course of action when we do not yet know what type of player we are dealing with in a particular playthrough.
 
+#### [Thesis](https://github.com/SergiCebrianGres/Model-free-video-game-personalization-for-educational-serious-games/blob/master/Thesis/thesis.pdf)
+
 ## Implemented tricks and techniques
 
 > - Irace
@@ -30,26 +32,28 @@ Lastly, we turn our attention in a way to evaluate the policies obtained from tr
 
 #### [Draga 2D representation example as ipywidget using HTML](https://github.com/SergiCebrianGres/Model-free-video-game-personalization-for-educational-serious-games/blob/master/Code/Draga.ipynb)
 
+#### [Gameplay logs analysis and clustering](https://github.com/SergiCebrianGres/Model-free-video-game-personalization-for-educational-serious-games/blob/master/Code/Logs%20and%20data%20analysis.ipynb)
+
 #### [Training and game visualization](https://github.com/SergiCebrianGres/Model-free-video-game-personalization-for-educational-serious-games/blob/master/Code/game_learning.ipynb)
 
 #### [Inspection and visualization of learned Q-Matrices](https://github.com/SergiCebrianGres/Model-free-video-game-personalization-for-educational-serious-games/blob/master/Code/Q%20inspection.ipynb)
 
 #### [Evaluation and relative evaluation of policies](https://github.com/SergiCebrianGres/Model-free-video-game-personalization-for-educational-serious-games/blob/master/Code/learning_evaluation.ipynb)
 
-
-### BibTex reference format for citation for the Code
-```
-@misc{AESGCebrian,
-title={Model-free video game personalization for educational serious games},
-url={https://github.com/SergiCebrianGres/Model-free-video-game-personalization-for-educational-serious-games},
-author={Cebrián, Sergi},
-  year={2018}
-}
-```
 ### BibTex reference format for citation for the report of the Master's Thesis
 
 ```
 @misc{AESGCebrianThesis,
+title={Model-free video game personalization for educational serious games},
+url={https://github.com/SergiCebrianGres/Model-free-video-game-personalization-for-educational-serious-games/blob/master/Thesis/thesis.pdf},
+author={Cebrián, Sergi},
+  year={2018}
+}
+```
+
+### BibTex reference format for citation for the Code
+```
+@misc{AESGCebrian,
 title={Model-free video game personalization for educational serious games},
 url={https://github.com/SergiCebrianGres/Model-free-video-game-personalization-for-educational-serious-games},
 author={Cebrián, Sergi},
